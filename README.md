@@ -10,7 +10,7 @@
   - **[Top 10 active users on the group (with a twist)](#top-10-active-users-on-the-group)**
     - Ghosts present in the group. (shocking results.)
   - **[Top 10 users most sent media.](#the-top-10-users-who-send-the-most-media)**
-   - **[Most active hours and days.](#top-10-most-used-emojis)**
+   - **[Most active hours and days.](#the-top-10-users-who-send-the-most-media)**
     - Heatmaps of weekdays and months.
     - Most active hours, weekdays, and months.
   - **[Most used words - WordCloud](#most-used-words-in-the-whole-chat)**
